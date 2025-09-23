@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berivm\\source\\repos\\MuzickaKolekcijaConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC3E6CF8-B7E0-48C1-AFC4-87F9F66C8DFD}|MuzickaKolekcijaConsole\\MuzickaKolekcijaConsole.csproj|c:\\users\\berivm\\source\\repos\\muzickakolekcijaconsole\\muzickakolekcijaconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3E6CF8-B7E0-48C1-AFC4-87F9F66C8DFD}|MuzickaKolekcijaConsole\\MuzickaKolekcijaConsole.csproj|solutionrelative:muzickakolekcijaconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berivm\\source\\repos\\MuzickaKolekcijaConsole\\MuzickaKolekcijaConsole\\Program.cs",
+              "RelativeDocumentMoniker": "MuzickaKolekcijaConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\berivm\\source\\repos\\MuzickaKolekcijaConsole\\MuzickaKolekcijaConsole\\Program.cs",
+              "RelativeToolTip": "MuzickaKolekcijaConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:55:56.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\bin\Debug\net8.0\MuzickaKolekcijaConsole.exe
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\bin\Debug\net8.0\MuzickaKolekcijaConsole.deps.json
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\bin\Debug\net8.0\MuzickaKolekcijaConsole.runtimeconfig.json
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\bin\Debug\net8.0\MuzickaKolekcijaConsole.dll
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\bin\Debug\net8.0\MuzickaKolekcijaConsole.pdb
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\obj\Debug\net8.0\MuzickaKolekcijaConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\obj\Debug\net8.0\MuzickaKolekcijaConsole.AssemblyInfoInputs.cache
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\obj\Debug\net8.0\MuzickaKolekcijaConsole.AssemblyInfo.cs
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\obj\Debug\net8.0\MuzickaKolekcijaConsole.csproj.CoreCompileInputs.cache
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\obj\Debug\net8.0\MuzickaKolekcijaConsole.dll
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\obj\Debug\net8.0\refint\MuzickaKolekcijaConsole.dll
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\obj\Debug\net8.0\MuzickaKolekcijaConsole.pdb
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\obj\Debug\net8.0\MuzickaKolekcijaConsole.genruntimeconfig.cache
+C:\Users\berivm\source\repos\MuzickaKolekcijaConsole\MuzickaKolekcijaConsole\obj\Debug\net8.0\ref\MuzickaKolekcijaConsole.dll
