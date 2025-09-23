@@ -1,0 +1,9 @@
+101|Na Drini cuprija|Ivo Andric|1945|ROMAN
+102|Prokleta Avlija|Ivo Andric|1954|ROMAN
+103|Seobe|Milos Crnjanski|1929|ROMAN
+104|Istorija sveta|Marko Popovic|2001|ISTORIJA
+105|Osnovi programiranja|Petar Petrovic|2018|NAUKA
+106|Pesme|Desanka Maksimovic|1965|POEZIJA
+107|Ana Karenjina|Lav Tolstoj|1878|ROMAN
+108|Rat i mir|Lav Tolstoj|1869|ROMAN
+109|Matematika 1|Milan Jovanovic|2015|NAUKA

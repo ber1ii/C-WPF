@@ -1,0 +1,14 @@
+C:\Users\berivm\source\repos\Osoba\Osoba\obj\Debug\net8.0\Osoba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berivm\source\repos\Osoba\Osoba\obj\Debug\net8.0\Osoba.AssemblyInfoInputs.cache
+C:\Users\berivm\source\repos\Osoba\Osoba\obj\Debug\net8.0\Osoba.AssemblyInfo.cs
+C:\Users\berivm\source\repos\Osoba\Osoba\obj\Debug\net8.0\Osoba.csproj.CoreCompileInputs.cache
+C:\Users\berivm\source\repos\Osoba\Osoba\bin\Debug\net8.0\Osoba.exe
+C:\Users\berivm\source\repos\Osoba\Osoba\bin\Debug\net8.0\Osoba.deps.json
+C:\Users\berivm\source\repos\Osoba\Osoba\bin\Debug\net8.0\Osoba.runtimeconfig.json
+C:\Users\berivm\source\repos\Osoba\Osoba\bin\Debug\net8.0\Osoba.dll
+C:\Users\berivm\source\repos\Osoba\Osoba\bin\Debug\net8.0\Osoba.pdb
+C:\Users\berivm\source\repos\Osoba\Osoba\obj\Debug\net8.0\Osoba.dll
+C:\Users\berivm\source\repos\Osoba\Osoba\obj\Debug\net8.0\refint\Osoba.dll
+C:\Users\berivm\source\repos\Osoba\Osoba\obj\Debug\net8.0\Osoba.pdb
+C:\Users\berivm\source\repos\Osoba\Osoba\obj\Debug\net8.0\Osoba.genruntimeconfig.cache
+C:\Users\berivm\source\repos\Osoba\Osoba\obj\Debug\net8.0\ref\Osoba.dll

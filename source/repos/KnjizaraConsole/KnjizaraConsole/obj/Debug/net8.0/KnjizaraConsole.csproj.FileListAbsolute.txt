@@ -1,0 +1,14 @@
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\bin\Debug\net8.0\KnjizaraConsole.exe
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\bin\Debug\net8.0\KnjizaraConsole.deps.json
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\bin\Debug\net8.0\KnjizaraConsole.runtimeconfig.json
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\bin\Debug\net8.0\KnjizaraConsole.dll
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\bin\Debug\net8.0\KnjizaraConsole.pdb
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\obj\Debug\net8.0\KnjizaraConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\obj\Debug\net8.0\KnjizaraConsole.AssemblyInfoInputs.cache
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\obj\Debug\net8.0\KnjizaraConsole.AssemblyInfo.cs
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\obj\Debug\net8.0\KnjizaraConsole.csproj.CoreCompileInputs.cache
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\obj\Debug\net8.0\KnjizaraConsole.dll
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\obj\Debug\net8.0\refint\KnjizaraConsole.dll
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\obj\Debug\net8.0\KnjizaraConsole.pdb
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\obj\Debug\net8.0\KnjizaraConsole.genruntimeconfig.cache
+C:\Users\berivm\source\repos\KnjizaraConsole\KnjizaraConsole\obj\Debug\net8.0\ref\KnjizaraConsole.dll

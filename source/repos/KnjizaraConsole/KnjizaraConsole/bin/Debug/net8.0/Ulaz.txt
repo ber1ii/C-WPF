@@ -1,0 +1,7 @@
+1|Na Drini cuprija|Ivo Andric|1945|1200
+2|Prokleta Avlija|Ivo Andric|1954|1100
+3|Seobe|Milos Crnjanski|1929|1500
+4|Matematika 1|Milan Jovanovic|2015|2200
+5|Osnovi programiranja|Petar Petrovic|2018|2500
+6|Pesme|Desanka Maksimovic|1965|900
+7|Algorithms|Donald Knuth|1973|3000

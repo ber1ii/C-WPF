@@ -1,0 +1,14 @@
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\bin\Debug\net8.0\CinemaConsole.exe
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\bin\Debug\net8.0\CinemaConsole.deps.json
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\bin\Debug\net8.0\CinemaConsole.runtimeconfig.json
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\bin\Debug\net8.0\CinemaConsole.dll
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\bin\Debug\net8.0\CinemaConsole.pdb
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\obj\Debug\net8.0\CinemaConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\obj\Debug\net8.0\CinemaConsole.AssemblyInfoInputs.cache
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\obj\Debug\net8.0\CinemaConsole.AssemblyInfo.cs
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\obj\Debug\net8.0\CinemaConsole.csproj.CoreCompileInputs.cache
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\obj\Debug\net8.0\CinemaConsole.dll
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\obj\Debug\net8.0\refint\CinemaConsole.dll
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\obj\Debug\net8.0\CinemaConsole.pdb
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\obj\Debug\net8.0\CinemaConsole.genruntimeconfig.cache
+C:\Users\berivm\source\repos\CinemaConsole\CinemaConsole\obj\Debug\net8.0\ref\CinemaConsole.dll
