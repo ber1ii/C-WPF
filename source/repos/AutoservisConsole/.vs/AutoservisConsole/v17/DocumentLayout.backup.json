@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berivm\\source\\repos\\AutoservisConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67C288E-AAD0-4415-88A1-B5EA5A633BAD}|AutoservisConsole\\AutoservisConsole.csproj|c:\\users\\berivm\\source\\repos\\autoservisconsole\\autoservisconsole\\vozilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67C288E-AAD0-4415-88A1-B5EA5A633BAD}|AutoservisConsole\\AutoservisConsole.csproj|solutionrelative:autoservisconsole\\vozilo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67C288E-AAD0-4415-88A1-B5EA5A633BAD}|AutoservisConsole\\AutoservisConsole.csproj|c:\\users\\berivm\\source\\repos\\autoservisconsole\\autoservisconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67C288E-AAD0-4415-88A1-B5EA5A633BAD}|AutoservisConsole\\AutoservisConsole.csproj|solutionrelative:autoservisconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67C288E-AAD0-4415-88A1-B5EA5A633BAD}|AutoservisConsole\\AutoservisConsole.csproj|c:\\users\\berivm\\source\\repos\\autoservisconsole\\autoservisconsole\\autoservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67C288E-AAD0-4415-88A1-B5EA5A633BAD}|AutoservisConsole\\AutoservisConsole.csproj|solutionrelative:autoservisconsole\\autoservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autoservis.cs",
+              "DocumentMoniker": "C:\\Users\\berivm\\source\\repos\\AutoservisConsole\\AutoservisConsole\\Autoservis.cs",
+              "RelativeDocumentMoniker": "AutoservisConsole\\Autoservis.cs",
+              "ToolTip": "C:\\Users\\berivm\\source\\repos\\AutoservisConsole\\AutoservisConsole\\Autoservis.cs",
+              "RelativeToolTip": "AutoservisConsole\\Autoservis.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAswIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T22:23:46.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vozilo.cs",
+              "DocumentMoniker": "C:\\Users\\berivm\\source\\repos\\AutoservisConsole\\AutoservisConsole\\Vozilo.cs",
+              "RelativeDocumentMoniker": "AutoservisConsole\\Vozilo.cs",
+              "ToolTip": "C:\\Users\\berivm\\source\\repos\\AutoservisConsole\\AutoservisConsole\\Vozilo.cs",
+              "RelativeToolTip": "AutoservisConsole\\Vozilo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T22:18:39.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berivm\\source\\repos\\AutoservisConsole\\AutoservisConsole\\Program.cs",
+              "RelativeDocumentMoniker": "AutoservisConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\berivm\\source\\repos\\AutoservisConsole\\AutoservisConsole\\Program.cs",
+              "RelativeToolTip": "AutoservisConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T22:18:26.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

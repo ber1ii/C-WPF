@@ -1,0 +1,14 @@
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\bin\Debug\net8.0\AutoservisConsole.exe
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\bin\Debug\net8.0\AutoservisConsole.deps.json
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\bin\Debug\net8.0\AutoservisConsole.runtimeconfig.json
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\bin\Debug\net8.0\AutoservisConsole.dll
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\bin\Debug\net8.0\AutoservisConsole.pdb
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\obj\Debug\net8.0\AutoservisConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\obj\Debug\net8.0\AutoservisConsole.AssemblyInfoInputs.cache
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\obj\Debug\net8.0\AutoservisConsole.AssemblyInfo.cs
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\obj\Debug\net8.0\AutoservisConsole.csproj.CoreCompileInputs.cache
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\obj\Debug\net8.0\AutoservisConsole.dll
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\obj\Debug\net8.0\refint\AutoservisConsole.dll
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\obj\Debug\net8.0\AutoservisConsole.pdb
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\obj\Debug\net8.0\AutoservisConsole.genruntimeconfig.cache
+C:\Users\berivm\source\repos\AutoservisConsole\AutoservisConsole\obj\Debug\net8.0\ref\AutoservisConsole.dll
