@@ -1,0 +1,14 @@
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\bin\Debug\net8.0\BibliotekaKlasa.exe
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\bin\Debug\net8.0\BibliotekaKlasa.deps.json
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\bin\Debug\net8.0\BibliotekaKlasa.runtimeconfig.json
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\bin\Debug\net8.0\BibliotekaKlasa.dll
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\bin\Debug\net8.0\BibliotekaKlasa.pdb
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\obj\Debug\net8.0\BibliotekaKlasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\obj\Debug\net8.0\BibliotekaKlasa.AssemblyInfoInputs.cache
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\obj\Debug\net8.0\BibliotekaKlasa.AssemblyInfo.cs
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\obj\Debug\net8.0\BibliotekaKlasa.csproj.CoreCompileInputs.cache
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\obj\Debug\net8.0\BibliotekaKlasa.dll
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\obj\Debug\net8.0\refint\BibliotekaKlasa.dll
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\obj\Debug\net8.0\BibliotekaKlasa.pdb
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\obj\Debug\net8.0\BibliotekaKlasa.genruntimeconfig.cache
+C:\Users\berivm\source\repos\BibliotekaKlasa\BibliotekaKlasa\obj\Debug\net8.0\ref\BibliotekaKlasa.dll

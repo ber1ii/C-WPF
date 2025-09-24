@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berivm\\source\\repos\\BibliotekaKlasa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7351AB4C-95CA-48B2-8246-340099AF1FB0}|BibliotekaKlasa\\BibliotekaKlasa.csproj|c:\\users\\berivm\\source\\repos\\bibliotekaklasa\\bibliotekaklasa\\biblioteka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7351AB4C-95CA-48B2-8246-340099AF1FB0}|BibliotekaKlasa\\BibliotekaKlasa.csproj|solutionrelative:bibliotekaklasa\\biblioteka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7351AB4C-95CA-48B2-8246-340099AF1FB0}|BibliotekaKlasa\\BibliotekaKlasa.csproj|c:\\users\\berivm\\source\\repos\\bibliotekaklasa\\bibliotekaklasa\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7351AB4C-95CA-48B2-8246-340099AF1FB0}|BibliotekaKlasa\\BibliotekaKlasa.csproj|solutionrelative:bibliotekaklasa\\knjiga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7351AB4C-95CA-48B2-8246-340099AF1FB0}|BibliotekaKlasa\\BibliotekaKlasa.csproj|c:\\users\\berivm\\source\\repos\\bibliotekaklasa\\bibliotekaklasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7351AB4C-95CA-48B2-8246-340099AF1FB0}|BibliotekaKlasa\\BibliotekaKlasa.csproj|solutionrelative:bibliotekaklasa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Biblioteka.cs",
+              "DocumentMoniker": "C:\\Users\\berivm\\source\\repos\\BibliotekaKlasa\\BibliotekaKlasa\\Biblioteka.cs",
+              "RelativeDocumentMoniker": "BibliotekaKlasa\\Biblioteka.cs",
+              "ToolTip": "C:\\Users\\berivm\\source\\repos\\BibliotekaKlasa\\BibliotekaKlasa\\Biblioteka.cs",
+              "RelativeToolTip": "BibliotekaKlasa\\Biblioteka.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA5wGAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:49:20.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Knjiga.cs",
+              "DocumentMoniker": "C:\\Users\\berivm\\source\\repos\\BibliotekaKlasa\\BibliotekaKlasa\\Knjiga.cs",
+              "RelativeDocumentMoniker": "BibliotekaKlasa\\Knjiga.cs",
+              "ToolTip": "C:\\Users\\berivm\\source\\repos\\BibliotekaKlasa\\BibliotekaKlasa\\Knjiga.cs",
+              "RelativeToolTip": "BibliotekaKlasa\\Knjiga.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:42:44.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\berivm\\source\\repos\\BibliotekaKlasa\\BibliotekaKlasa\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotekaKlasa\\Program.cs",
+              "ToolTip": "C:\\Users\\berivm\\source\\repos\\BibliotekaKlasa\\BibliotekaKlasa\\Program.cs",
+              "RelativeToolTip": "BibliotekaKlasa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T18:42:23.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
