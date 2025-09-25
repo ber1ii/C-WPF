@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berivm\\source\\repos\\VideotekaWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{105D8DED-432A-44A6-8572-C2548CFBB677}|VideotekaWPF\\VideotekaWPF.csproj|c:\\users\\berivm\\source\\repos\\videotekawpf\\videotekawpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{105D8DED-432A-44A6-8572-C2548CFBB677}|VideotekaWPF\\VideotekaWPF.csproj|solutionrelative:videotekawpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105D8DED-432A-44A6-8572-C2548CFBB677}|VideotekaWPF\\VideotekaWPF.csproj|c:\\users\\berivm\\source\\repos\\videotekawpf\\videotekawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105D8DED-432A-44A6-8572-C2548CFBB677}|VideotekaWPF\\VideotekaWPF.csproj|solutionrelative:videotekawpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105D8DED-432A-44A6-8572-C2548CFBB677}|VideotekaWPF\\VideotekaWPF.csproj|c:\\users\\berivm\\source\\repos\\videotekawpf\\videotekawpf\\videoteka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105D8DED-432A-44A6-8572-C2548CFBB677}|VideotekaWPF\\VideotekaWPF.csproj|solutionrelative:videotekawpf\\videoteka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105D8DED-432A-44A6-8572-C2548CFBB677}|VideotekaWPF\\VideotekaWPF.csproj|c:\\users\\berivm\\source\\repos\\videotekawpf\\videotekawpf\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{105D8DED-432A-44A6-8572-C2548CFBB677}|VideotekaWPF\\VideotekaWPF.csproj|solutionrelative:videotekawpf\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\berivm\\source\\repos\\VideotekaWPF\\VideotekaWPF\\Film.cs",
+              "RelativeDocumentMoniker": "VideotekaWPF\\Film.cs",
+              "ToolTip": "C:\\Users\\berivm\\source\\repos\\VideotekaWPF\\VideotekaWPF\\Film.cs",
+              "RelativeToolTip": "VideotekaWPF\\Film.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:19:06.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Videoteka.cs",
+              "DocumentMoniker": "C:\\Users\\berivm\\source\\repos\\VideotekaWPF\\VideotekaWPF\\Videoteka.cs",
+              "RelativeDocumentMoniker": "VideotekaWPF\\Videoteka.cs",
+              "ToolTip": "C:\\Users\\berivm\\source\\repos\\VideotekaWPF\\VideotekaWPF\\Videoteka.cs",
+              "RelativeToolTip": "VideotekaWPF\\Videoteka.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:10:01.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\berivm\\source\\repos\\VideotekaWPF\\VideotekaWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "VideotekaWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\berivm\\source\\repos\\VideotekaWPF\\VideotekaWPF\\MainWindow.xaml",
+              "RelativeToolTip": "VideotekaWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-24T23:09:38.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\berivm\\source\\repos\\VideotekaWPF\\VideotekaWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VideotekaWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\berivm\\source\\repos\\VideotekaWPF\\VideotekaWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "VideotekaWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:09:36.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

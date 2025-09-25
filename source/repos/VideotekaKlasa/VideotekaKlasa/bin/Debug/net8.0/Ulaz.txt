@@ -1,0 +1,5 @@
+1|Matrix|Wachowski|1999|AKCIJA
+2|Inception|Christopher Nolan|2010|AKCIJA
+3|The Godfather|Francis Ford Coppola|1972|DRAMA
+4|The Mask|Chuck Russell|1994|KOMEDIJA
+5|Gladiator|Ridley Scott|2000|AKCIJA

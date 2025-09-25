@@ -1,0 +1,14 @@
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\bin\Debug\net8.0\VideotekaKlasa.exe
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\bin\Debug\net8.0\VideotekaKlasa.deps.json
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\bin\Debug\net8.0\VideotekaKlasa.runtimeconfig.json
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\bin\Debug\net8.0\VideotekaKlasa.dll
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\bin\Debug\net8.0\VideotekaKlasa.pdb
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\obj\Debug\net8.0\VideotekaKlasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\obj\Debug\net8.0\VideotekaKlasa.AssemblyInfoInputs.cache
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\obj\Debug\net8.0\VideotekaKlasa.AssemblyInfo.cs
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\obj\Debug\net8.0\VideotekaKlasa.csproj.CoreCompileInputs.cache
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\obj\Debug\net8.0\VideotekaKlasa.dll
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\obj\Debug\net8.0\refint\VideotekaKlasa.dll
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\obj\Debug\net8.0\VideotekaKlasa.pdb
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\obj\Debug\net8.0\VideotekaKlasa.genruntimeconfig.cache
+C:\Users\berivm\source\repos\VideotekaKlasa\VideotekaKlasa\obj\Debug\net8.0\ref\VideotekaKlasa.dll
